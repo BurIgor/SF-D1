@@ -3,7 +3,6 @@ SF D1.11 HomeWork
 
 ## Список задач на доске
 ```python trello.py
-```
 
 ## Перемещение задачи Name в колонку Column
 ```python trello.py move Name Column 
