@@ -5,7 +5,7 @@ SF D1.11 HomeWork
 ```python trello.py```
 
 ### Перемещение задачи Name в колонку Column
-```python trello.py move Name Column ```
+```python trello.py move Name Column ```  
  *Если есть дубликаты, нужно указать, какую именно задачу нужно переместить.*
 
 ### Добавление новой колонки NewColumn
