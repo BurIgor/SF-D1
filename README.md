@@ -1,5 +1,6 @@
 # SF-D1
-SF D1.11 HomeWork
+SF D1.11 HomeWork  
+Вставьте Ваши token, key и board_id.
 
 ### Список задач на доске
 ```python trello.py```
